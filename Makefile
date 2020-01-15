@@ -1,3 +1,4 @@
+#SHELL := /bin/zsh
 OUT_DIR=output
 IN_DIR=markdown
 STYLES_DIR=styles

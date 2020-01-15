@@ -1,100 +1,119 @@
-Johnny Coder
+Hjalmar Jakobsson
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Musician who has fallen in love with coding and solving problems. 
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2020 (expected)
+:   **MSc, Interactive Media Technology and Sonic Media**; Royal Institute 
+    of Technology in Stockholm, Sweden (KTH)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Preliminary thesis tile: Evaluating methods for categoric perception of 
+    twelve-tone chromatic intervals*
+     
+2018 (abroad)
+:   **Courses in Musical Acoustics**; Polytechic University of Milan, Italy
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016 
+:   **BSc, Media Technology**; Royal Institute of Technology in Stockholm, Sweden
 
-    *Minor: Awesomeology*
+    *Thesis title: Traditional Table vs. Modern Flow Map: A quantitative 
+    comparison between two information visualizations*
+
+2013
+:   **Music production**; SAE, Institute of Audio Engineering in Solna, Sweden
+    
+    Six month course in music production, mixing, and mastering. 
+
+2012
+:   **Italian, 30hp**; Stockholm University, Sweden 
+
+2011-2012
+:   **French, 60hp**; Stockholm University, Sweden
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Willys AB (Axfood):**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Work on the side of engineering studies. Work consists of standard duties found in
+any groceries store, such as packing up deliveris, handling customers, and charging
+for goods.
 
-* First item
+**Trappfabriken.se AB**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Wordpress development alongside engineering studies. Migrated website from Drupal to Wordpress.
 
-**That Other Job You Had**
+**Qapital, Inc**
 
-Also with a short description.
+Intern at fintech company during first year in engineering school.
+
+**Elite Eden Park Hotel, Stockholm**
+
+Breakfast host in parallell with language studies at Stockholm University.
+
+**Torsvik elementary school in Lidingö, Stockholm**
+
+Stand-in teacher / general aid from time to time. Also this in parallell with higher education.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Projects
+:   **Pitch Machine - Ear training app**; Ear training application initially
+    built with ionic v1 / angular v1 which I later converted to a progressive
+    web app in React. Pitch Machine is now the basis for my master's thesis.
+    
+:   **Drum trigger / synth using Myo bracelet**; Drum machine built with Supercollider
+    at KTH with the goal of using movement and EMG (electric muscular signals) 
+    for selecting and triggering drums. 
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Node/Fullstack**; Node and javascript has been used both at KTH and in my
+    own personal projects. At KTH I have used mainly AngularJS framework and on my own I have been
+    using React with MongoDB as database.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python**; Python has mainly been used in courses at KTH, such
+    as `Applied computer science` and minor projects.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **PHP**; As mentionned above in under `work experience` I have been doing
+    web development in Wordpress and the backend of wordpress is build in PHP
+    with SQL as database.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **Bash**, **Pure data**, **Supercollider**, **Matlab**
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Additional Information
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Swedish (native speaker)
+     * English (fluent)
+     * French (reading and writing)
+     * Italian (reading)
 
-* Random tidbit
+* Music:
 
-* Other sort of impressive-sounding thing you did
+     * Guitar/piano; I have been playing music and reading theory for 20 years
+     * Music production; quite experienced with programming and mixing music. I feature 
+     as keyboard player in two of swedish artist Måns Zelmerlöw's music videos (Broken parts; Run for your life)
+
+* Exercising:
+
+     * I have a great passion for exercising and ergonomics.
+     * Golf swing development.
+
+* Driver's License
+
+     * Swedish B driver's licence (regular car)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <hjalmar.jakobsson@telia.com> • +46 (0)70 228 14 90
+> Torsvikssvängen 50 - Lidingö, Sweden
